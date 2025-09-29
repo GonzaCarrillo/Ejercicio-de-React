@@ -1,0 +1,32 @@
+.product {
+  border: 1px solid #eee;
+  padding: 15px;
+  margin: 10px;
+}
+
+.category {
+  background: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+}
+
+.original-price {
+  text-decoration: line-through;
+  color: #999;
+  margin-right: 8px;
+}
+
+.discounted-price {
+  color: #e44d26;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.discount-badge {
+  background: #e44d26;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.8em;
+}
